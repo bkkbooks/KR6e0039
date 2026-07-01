@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0039/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說如來興顯經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T10/T10n0291.xml
+    old_id: T10n0291
+hash: sha256:c7e7ce218187e0f43229cb992836ebcd477bdda9ed7796c12c25cc90ea308346
